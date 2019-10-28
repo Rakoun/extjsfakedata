@@ -5,6 +5,16 @@
       "title": "hello"
     }
   ],
+  "users": [
+    {
+     "id": 1,
+     "username": "rgeromegnace",
+    },
+    {
+      "id": 2,
+      "username": "pmarquet",
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
