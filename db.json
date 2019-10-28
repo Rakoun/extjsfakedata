@@ -1,2 +1,11 @@
-string H = "hello";
-return new JavaScriptSerializer().Serialize(H);
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
