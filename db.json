@@ -8,11 +8,15 @@
   "users": [
     {
      "id": 1,
-     "username": "rgeromegnace"
+     "username": "rgeromegnace",
+     "success": true,
+     "role": "administrator"
     },
     {
       "id": 2,
       "username": "pmarquet"
+      "success": true,
+      "role": "user"
     }
   ],
   "profile": {
