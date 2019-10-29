@@ -9,13 +9,13 @@
     {
      "id": 1,
      "username": "rgeromegnace",
-     "success": true,
+     "success": "true",
      "role": "administrator"
     },
     {
       "id": 2,
       "username": "pmarquet"
-      "success": true,
+      "success": "true",
       "role": "user"
     }
   ],
