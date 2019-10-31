@@ -11,6 +11,12 @@
      "username": "rgeromegnace",
      "success": "true",
      "role": "administrator"
+    },
+    {
+      "id": 2,
+      "username": "pmarquet",
+      "success": "true",
+      "role": "user"
     }
   ],
   "profile": {
