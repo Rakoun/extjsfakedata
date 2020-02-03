@@ -19,11 +19,9 @@
       "role": "user"
     }
   ],
-  "profile": [
-    {
+  "profile": {
       "name": "typicode"
-    },
-  ],
+  },
   "patient": [
     {
       "id": 1,
@@ -39,7 +37,7 @@
       "photoUrl": "",
       "allergies": "",
       "preexistingconditions": "",
-      "notes": "",
+      "notes": ""
     },
     {
       "id": 2,
@@ -55,7 +53,7 @@
       "photoUrl": "",
       "allergies": "",
       "preexistingconditions": "",
-      "notes": "",
+      "notes": ""
     }
   ]
 }
