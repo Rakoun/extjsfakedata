@@ -19,9 +19,11 @@
       "role": "user"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  },
+  "profile": [
+    {
+      "name": "typicode"
+    },
+  ],
   "patient": [
     {
       "id": 1,
@@ -49,12 +51,11 @@
       "address": "220, Bernie Street",
       "city": "Londre",
       "state": "",
-      "zip": "75001",
+      "zip": "",
       "photoUrl": "",
       "allergies": "",
       "preexistingconditions": "",
       "notes": "",
     }
-
   ]
 }
