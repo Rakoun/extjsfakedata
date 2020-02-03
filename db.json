@@ -21,5 +21,40 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "patient": [
+    {
+      "id": 1,
+      "firstname": "Alebert",
+      "lastname": "DUPONT",
+      "dob": "28/12/1975",
+      "gender": "Male",
+      "email": "a.dupont@gmail.com",
+      "address": "220, Bernie Street",
+      "city": "Paris",
+      "state": "",
+      "zip": "75001",
+      "photoUrl": "",
+      "allergies": "",
+      "preexistingconditions": "",
+      "notes": "",
+    },
+    {
+      "id": 2,
+      "firstname": "Adaline",
+      "lastname": "BOMAN",
+      "dob": "02/03/1932",
+      "gender": "Female",
+      "email": "a.boman@gmail.com",
+      "address": "220, Bernie Street",
+      "city": "Londre",
+      "state": "",
+      "zip": "75001",
+      "photoUrl": "",
+      "allergies": "",
+      "preexistingconditions": "",
+      "notes": "",
+    }
+
+  ]
 }
