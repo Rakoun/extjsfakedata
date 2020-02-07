@@ -58,10 +58,16 @@
   ],
   "allergies": [
     {
-
+      "id": 1,
+      "text": "Allergies au lactose",
+      "updateuser": "",
+      "updatedate": "January, 02 2020 23:45:05"
     },
     {
-      
+      "id": 2,
+      "text": "Allergies à la farine de blé",
+      "updateuser": "",
+      "updatedate": "December, 28 2019 08:30:23"
     }
   ]
 }
