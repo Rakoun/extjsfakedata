@@ -69,5 +69,25 @@
       "updateuser": "",
       "updatedate": "December, 28 2019 08:30:23"
     }
+  ],
+  "preexistingconditions": [
+    {
+      "id": 1,
+      "text": "pre existing condition 01",
+      "updateuser": "",
+      "updatedate": "",
+    },
+    {
+      "id": 2,
+      "text": "pre existing condition 02",
+      "updateuser": "",
+      "updatedate": "",
+    },
+    {
+      "id": 3,
+      "text": "pre existing  condition 03",
+      "updateuser": "",
+      "updatedate": "",
+    }
   ]
 }
